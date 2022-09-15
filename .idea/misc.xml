@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/figma/app/src/main/res/drawable/btn_bg.xml" value="0.278" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/figma/app/src/main/res/drawable/btn_shape.xml" value="0.1155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/figma/app/src/main/res/drawable/ic_calendar_24dp.xml" value="0.135" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/figma/app/src/main/res/font/font.xml" value="0.30364583333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/figma/app/src/main/res/font/nats.xml" value="0.30364583333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/figma/app/src/main/res/layout/client_profile.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/figma/app/src/main/res/layout/fragment_client_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/figma/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
